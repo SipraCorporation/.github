@@ -1,14 +1,23 @@
 <div align="center">
 
-# 🚀 Sipra Corporation
+<img src="https://sipracorporation.com/images/logo.png" width="180" alt="Sipra Corporation"/>
+
+# Sipra Corporation
 
 ### Building Solutions for a Smarter Future
 
 <p>
-Enterprise Software • Artificial Intelligence • Cloud • Healthcare • Education • Cyber Security • Smart Agriculture
+
+![Enterprise Software](https://img.shields.io/badge/Enterprise-Software-0A66C2?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-2563EB?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-0F172A?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open-Source-16A34A?style=for-the-badge)
+
 </p>
 
 [🌐 Website](https://sipracorporation.com) •
+[⚡ SipraFusion](https://siprafusion.com) •
 [🎓 SipraEdu](https://sipraedu.sipracorporation.com) •
 [🏫 SFSchool](https://sfschool.sipracorporation.com)
 
@@ -16,142 +25,115 @@ Enterprise Software • Artificial Intelligence • Cloud • Healthcare • Edu
 
 ---
 
-# About Sipra Corporation
+# About Us
 
-Sipra Corporation is a technology-driven software company dedicated to building innovative digital products that solve real-world problems.
+Sipra Corporation is a technology-driven software company focused on developing innovative, scalable, and secure digital solutions for businesses, educational institutions, healthcare organizations, and startups.
 
-Our mission is to develop scalable, secure, and intelligent software solutions across multiple industries including healthcare, education, enterprise systems, agriculture, artificial intelligence, and cloud technologies.
+We combine modern software engineering with Artificial Intelligence and Cloud technologies to build enterprise-grade applications that solve real-world problems.
 
 ---
 
 # Our Brands
 
-## 💼 Sipra Corporation
-
-Enterprise software development, cloud platforms, AI solutions, digital transformation, and business automation.
-
----
-
-## ⚡ SipraFusion
-
-Modern software engineering company providing custom software development, SaaS platforms, APIs, AI integration, DevOps, and enterprise applications.
+| Brand | Description |
+|-------|-------------|
+| 💼 **Sipra Corporation** | Enterprise software, cloud solutions, AI, digital transformation |
+| ⚡ **SipraFusion** | Custom software development, SaaS, APIs, enterprise applications |
+| 🎓 **SipraEdu** | Professional IT training, AI, programming and technical education |
+| 🏫 **SFSchool** | Complete School ERP and School Management System |
 
 ---
 
-## 🎓 SipraEdu
+# What We Build
 
-An online learning platform delivering practical IT training, programming courses, AI education, cybersecurity, and professional development.
+💻 Enterprise Software
 
----
+🌐 Web Applications
 
-## 🏫 SFSchool
+☁ Cloud Solutions
 
-A complete School Management System providing digital solutions for educational institutions including admissions, attendance, examinations, fee management, HR, and parent portals.
+🤖 Artificial Intelligence
 
----
+📱 Mobile Applications
 
-# Core Services
+🏥 Healthcare Information Systems
 
-- Enterprise Software Development
-- Web Application Development
-- Desktop Applications
-- Cloud Solutions
-- AI & Machine Learning
-- OCR & Document Automation
-- REST APIs
-- Mobile Applications
-- Healthcare Information Systems
-- Education Technology
-- Cyber Security
-- Business Automation
-- Database Solutions
-- UI/UX Development
+🎓 Education Platforms
+
+🔐 Cyber Security Solutions
+
+📄 OCR & Document Automation
+
+🌾 Smart Agriculture Solutions
+
+📊 Business Automation
 
 ---
 
-# Technologies
+# Technology Stack
 
-### Backend
-
-- ASP.NET Core
-- .NET Framework
-- C#
-- REST API
-- SignalR
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- jQuery
-- Angular
-
-### Databases
-
-- SQL Server
-- PostgreSQL
-- SQLite
-
-### Cloud
-
-- Microsoft Azure
-- Azure App Services
-- Azure SQL
-- Azure Storage
-
-### AI
-
-- OpenAI
-- Python
-- OCR
-- Machine Learning
-- Computer Vision
+| Backend | Frontend | Database | Cloud | AI |
+|----------|----------|----------|-------|----|
+| ASP.NET Core | HTML5 | SQL Server | Microsoft Azure | OpenAI |
+| .NET Framework | CSS3 | PostgreSQL | Azure SQL | Python |
+| C# | JavaScript | SQLite | Azure Storage | Machine Learning |
+| REST API | Bootstrap | Entity Framework | Azure App Services | Computer Vision |
+| SignalR | Angular | Dapper | Azure Functions | OCR |
 
 ---
 
 # Featured Projects
 
-🚀 Sipra Corporation Website
-
-⚡ SipraFusion Website
-
-🎓 SipraEdu Platform
-
-🏫 SFSchool Management System
-
-📞 LAN VoIP Communication System
-
-🏥 Healthcare Management Solutions
-
-🤖 AI Automation Projects
-
-📄 OCR Document Processing
-
-☁️ Cloud Applications
+| Project | Description |
+|----------|-------------|
+| 📞 LAN VoIP Communication System | Real-time voice communication using Opus Codec |
+| 🌐 Sipra Corporation Website | Corporate website and digital presence |
+| ⚡ SipraFusion Platform | Software development and SaaS platform |
+| 🎓 SipraEdu | Online learning platform |
+| 🏫 SFSchool | Complete School ERP |
+| 🏥 Healthcare Management System | Hospital & Clinic Management |
+| 🤖 AI Projects | AI-powered enterprise applications |
+| 📄 OCR Automation | Intelligent document processing |
 
 ---
 
-# Mission
+# Organization Statistics
 
-Our vision is to become one of the leading technology companies by building innovative, secure, and intelligent software solutions that empower businesses, educational institutions, healthcare organizations, and governments worldwide.
+📁 **10+ Software Projects**
+
+🏢 **4 Technology Brands**
+
+💻 **Enterprise Software Development**
+
+☁ **Cloud Solutions**
+
+🤖 **Artificial Intelligence**
+
+🌍 **Serving Global Clients**
 
 ---
 
-# Contact
+# Our Mission
 
-🌐 https://sipracorporation.com
+Our mission is to empower businesses through innovative technology by building secure, scalable, and intelligent software solutions that improve productivity, efficiency, and digital transformation.
 
-📧 info@sipracorporation.com
+---
 
-📍 Punjab, Pakistan
+# Connect With Us
+
+🌐 **Website:** https://sipracorporation.com
+
+📧 **Email:** info@sipracorporation.com
+
+📍 **Location:** Punjab, Pakistan
+
+💼 **LinkedIn:** https://linkedin.com/company/sipra-corporation
 
 ---
 
 <div align="center">
 
-### Building the Future with Technology
+## Building the Future with Technology
 
 ⭐ Thank you for visiting Sipra Corporation ⭐
 
